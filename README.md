@@ -2,7 +2,7 @@
 
 An employee directory with React.
 
-![preview](employee-directory/public/preview.png)
+![preview](public/preview.png)
 
 ## Functionality
 
